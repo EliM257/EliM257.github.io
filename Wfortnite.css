@@ -1,0 +1,10 @@
+p {
+    color:rgb(255, 255, 255);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+
+}
+body {
+    margin: 0;
+    background: rgb(80, 80, 80);
+    text-align: center;
+}
