@@ -1,18 +1,6 @@
 p {
     color:rgb(255, 255, 255);
-    // <uniquifier>: Use a unique and descriptive class name
-
-.sixtyfour-convergence-<uniquifier> {
-  font-family: "Sixtyfour Convergence", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
-  font-variation-settings:
-    "BLED" 0,
-    "SCAN" 0,
-    "XELA" 0,
-    "YELA" 0;
-    }
+    font-family: 'Sixtyfour Convergence', Courier, monospace
 }
 body {
     margin: 0;
