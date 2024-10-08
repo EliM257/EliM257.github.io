@@ -2,6 +2,10 @@ p {
     color:rgb(255, 255, 255);
     font-family: 'Sixtyfour Convergence', Courier, monospace
 }
+a {
+    color:rgb(255, 255, 255);
+    font-family: 'Sixtyfour Convergence', Courier, monospace
+}
 body {
     margin: 0;
     background: rgb(80, 80, 80);
