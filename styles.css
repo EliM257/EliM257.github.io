@@ -8,6 +8,6 @@ a {
 }
 body {
     margin: 0;
-    background: url("Reasons.png");
+    background-image: url("Reasons.png");
     text-align: center;
 }
